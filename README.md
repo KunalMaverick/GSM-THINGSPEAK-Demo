@@ -47,6 +47,14 @@ It takes an integer value (data) as input, which is the value to be sent to the 
 A URL string is constructed with the API key of the Thingspeak channel and the data value.
 The function sends this URL string as an HTTP GET request to the server using AT+CIPSEND and waits for a response.
 
+<img width="516" alt="image" src="https://github.com/KunalMaverick/GSM-THINGSPEAK-Demo/assets/40132560/9f1e772e-75a1-4e8e-9986-724f06acb8fd">
+
+
+In the above piece of code update your Thingspeak KEY
+and run it on your arduino board :))
+
+**Note: To make this code work, you need to replace <api_keyof_thingspeak> in the Field1() function with the actual API key of your Thingspeak channel. Additionally, ensure that you have a compatible GSM/GPRS module and the necessary SIM card with a valid data plan and network coverage.**
+
 - EndConnection() Function:
 
 This function is responsible for closing the connection with the server.
@@ -59,13 +67,7 @@ It continuously reads data from the GSM module's serial buffer and prints it to 
 
 
 
-<img width="516" alt="image" src="https://github.com/KunalMaverick/GSM-THINGSPEAK-Demo/assets/40132560/9f1e772e-75a1-4e8e-9986-724f06acb8fd">
 
-
-In the above piece of code update your Thingspeak KEY
-and run it on your arduino board :))
-
-**Note: To make this code work, you need to replace <api_keyof_thingspeak> in the Field1() function with the actual API key of your Thingspeak channel. Additionally, ensure that you have a compatible GSM/GPRS module and the necessary SIM card with a valid data plan and network coverage.**
 
 Thats all you need to do after cloning this rep :))
 
