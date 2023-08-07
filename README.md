@@ -3,7 +3,7 @@ This is a project which demonstrates how you can get GSM module to interact with
 This rep contains the the arduino code required to connect your GSM - Sim 800L or any GSM shield to thingspeak and demonstrates how you can make your GSM shield interact with thingspeak. The aim of this rep is not to dive deep into the schematics but to provide a look into how  GSM shield can be integrated with Thingspeak. (altho ill be dropping a lil info on the wiring too :)) )
 
 ## What I have used (Schematic wise)
-I had used an Arduino Leonardo and a GSM sim 900 shield (thanks to the shield, the wiring aint a huge brainer :)) , saved a lot of time :) )
+I had used an Arduino Leonardo and a GSM sim 900 shield (thanks to the shield, the wiring wasnt a huge brainer :)) , saved a lot of time :) )
 ill be dropping a basic pic on the wiring part
 
 ![image](https://github.com/KunalMaverick/GSM-THINGSPEAK-Demo/assets/40132560/edc564b6-5176-40c2-982b-fb6cac76952b)
