@@ -10,7 +10,7 @@ ill be dropping a basic pic on the wiring part
 (source:- https://forum.arduino.cc/t/arduino-uno-gsm-shield-sim-900-problem/388675)
 (feel free to edit the RX and TX pins in the arduino file according to your wiring)
 
-## Explaining the code:-
+## Explanation:-
 
 <img width="379" alt="image" src="https://github.com/KunalMaverick/GSM-THINGSPEAK-Demo/assets/40132560/6b36f511-9ea1-4c10-be89-7c23f75cf1b1">
 
