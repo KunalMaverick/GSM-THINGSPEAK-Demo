@@ -69,5 +69,5 @@ It continuously reads data from the GSM module's serial buffer and prints it to 
 
 
 
-Thats all you need to do after cloning this rep :))
+Thats all you need to do know before cloning this rep :))
 
