@@ -50,8 +50,7 @@ The function sends this URL string as an HTTP GET request to the server using AT
 <img width="516" alt="image" src="https://github.com/KunalMaverick/GSM-THINGSPEAK-Demo/assets/40132560/9f1e772e-75a1-4e8e-9986-724f06acb8fd">
 
 
-In the above piece of code update your Thingspeak KEY
-and run it on your arduino board :))
+
 
 **Note: To make this code work, you need to replace <api_keyof_thingspeak> in the Field1() function with the actual API key of your Thingspeak channel. Additionally, ensure that you have a compatible GSM/GPRS module and the necessary SIM card with a valid data plan and network coverage.**
 
